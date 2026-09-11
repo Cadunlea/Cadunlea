@@ -10,6 +10,8 @@
   <a href="mailto:cadunlea@crimson.ua.edu"><img src="https://img.shields.io/badge/Email-F4A649?style=for-the-badge&logo=gmail&logoColor=3E2A1E" /></a>
 </p>
 
+<img width="1600" height="755" alt="image" src="https://github.com/user-attachments/assets/773efb49-e976-4fc5-a9af-2d84a5cdef33" />
+
 <h3>📬 How to Reach Me</h3>
 
 <ul>
@@ -18,18 +20,14 @@
   <li>💼 LinkedIn: <a href="https://linkedin.com/in/caelandunlea">in/caelandunlea</a></li>
   <li>🤝 Handshake: <a href="https://ua.joinhandshake.com/profiles/caelandunlea">caelandunlea</a></li>
   <li>🌐 Website: <a href="https://cadunlea.github.io">cadunlea.github.io</a></li>
-  <li>🐙 GitHub: well, you're already here — congrats!</li>
+  <li>🐙 GitHub: well, you're already here! Congrats!</li>
 </ul>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A649&height=100&section=header" />
-</p>
 
 ---
 
 ### 👋 About Me
 
-I'm an ECE student at the University of Alabama who ended up loving the space where circuits meet code. Right now I spend most of my build time on driver circuits, sensor boards, and LED projects with the Astrobotics team — but the thing that really pulls me in is microelectronics and chip design, and I'm chasing that further.
+I'm an ECE student at the University of Alabama who ended up exploring where circuits meet code. Right now, I spend most of my time building driver circuits, sensor boards, and LED projects with Alabama Astrobotics, but the thing that really pulls me in is microelectronics and chip design, and I'm chasing that further.
 
 Outside of school, I'm probably:
 - 🇩🇪 Learning German
@@ -68,13 +66,13 @@ Outside of school, I'm probably:
 
 ### 🚀 What I'm Building
 
-**[Astrobotics — Custom Driver Circuit Schematic Design](https://cadunlea.github.io)**
+**[Astrobotics Custom Driver Circuit Schematic Design](https://cadunlea.github.io)**
 Driver circuitry design for the Astrobotics rover platform.
 
-**[Astrobotics — 16x16 LED Cube](https://cadunlea.github.io)**
+**[Astrobotics 16x16 LED Cube](https://cadunlea.github.io)**
 Hand-wired and programmed LED cube built for team demos.
 
-**[BWC — Current Sensor Circuit Board CAD](https://cadunlea.github.io)**
+**[BWC Current Sensor Circuit Board CAD](https://cadunlea.github.io)**
 CAD design for a current sensor board, terminal blocks and all.
 
 ---
