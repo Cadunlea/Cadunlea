@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fcb147,fee499&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcb147,100:fee499&height=100&section=header" />
 </p>
 
 <h3>📬 How to Reach Me</h3>
