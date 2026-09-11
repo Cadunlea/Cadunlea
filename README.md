@@ -10,7 +10,11 @@
   <a href="mailto:cadunlea@crimson.ua.edu"><img src="https://img.shields.io/badge/Email-F4A649?style=for-the-badge&logo=gmail&logoColor=3E2A1E" /></a>
 </p>
 
-<img width="1600" height="755" alt="image" src="https://github.com/user-attachments/assets/773efb49-e976-4fc5-a9af-2d84a5cdef33" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cadunlea&show_icons=true&theme=dracula&title_color=F4A649&icon_color=F4A649&text_color=e0e0e0&bg_color=1a1a1a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cadunlea&show_icons=true&title_color=F4A649&icon_color=F4A649&text_color=3E2A1E&bg_color=FFFBF2" />
+  <img align="center" alt="Caelan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cadunlea&show_icons=true&title_color=F4A649&icon_color=F4A649&text_color=3E2A1E&bg_color=FFFBF2" />
+</picture>
 
 <h3>📬 How to Reach Me</h3>
 
