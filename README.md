@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Cadunlea">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F4A649&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Caelan!;ECE+Student+%40+University+of+Alabama;Into+microelectronics+%26+chip+design;Thanks+for+stopping+by!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F4A649&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caelan!;ECE+Student+%40+University+of+Alabama;Into+microelectronics+%26+chip+design;Thanks+for+stopping+by!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
   </a>
 </h1>
 
