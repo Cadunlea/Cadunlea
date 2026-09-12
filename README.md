@@ -57,7 +57,7 @@
 
 <p>
   <b>○ Reliable MicroSystems</b> · Staff Engineer Intern, Summer 2026<br>
-  Test hardware and circuit design for 22 nm technology characterization and harsh
+  Test hardware and circuit design for semiconductor technology characterization and harsh
   environment testing. Cadence Virtuoso, board layout, and some Verilog RTL.
 </p>
 
